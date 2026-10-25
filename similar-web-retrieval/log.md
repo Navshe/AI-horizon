@@ -35,3 +35,12 @@
 - Requested a two-slide summary of six previously discussed measures: age distribution, audience share, competitive share, visit duration, pages per visit and bounce rate.
 - Separate audience composition/share from engagement, and label this as a proposed comparison framework until values are collected.
 - Verify traffic-versus-unique-visitor denominators, combined 55+ engagement support, exact domains and AAA regional coverage. Maintain one consistent six-site denominator for competitive share.
+
+## October 25, 2026: populated competitive benchmark and merged deck
+
+- User asked to populate the six metrics for AARP and all five competitors, then combine the two benchmark slides with the previous ten-slide presentation.
+- Confirmed that selecting 55–64 and 65+ together and clicking Apply yields native combined 55+ engagement. This supersedes the earlier assumption that the interface only offered separate bands.
+- Collected September 2026 U.S. Total web data, all genders, subdomains included, for aarp.org, amazon.com, aaa.com, costco.com, usaa.com and amac.us.
+- AAA scope is the national domain and its subdomains, not separately hosted regional clubs.
+- The interface limits each view to five sites. Rebased two overlapping views through a common Amazon anchor to produce approximate six-site competitive shares. Label the approximation and source rounding rather than presenting it as a native six-site export.
+- Retain one decimal place throughout the twelve-slide combined presentation. Keep licensed source data and detailed values outside GitHub.
