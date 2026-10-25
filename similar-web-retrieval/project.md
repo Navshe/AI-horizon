@@ -42,11 +42,11 @@ Keep this project in similar-web-retrieval/ within Navshe/AI-horizon, separate f
 - Include AARP as the benchmark, for six organizations in total.
 - This fixed set applies to competitive benchmarking. It does not replace discovery of other websites visited by AARP.org's audience.
 - Compare six demographic reporting measures: age distribution, audience share by website, competitive share, average visit duration, pages per visit, and bounce rate.
-- Summarize the measures in two PowerPoint slides: audience composition/share on the first slide and engagement on the second. This is a comparison framework; do not label definitions or uncollected values as measured competitive results.
+- Summarize competitive values in two PowerPoint slides: audience composition/share on the first slide and engagement on the second. Append these to the previous ten-slide audience deck to make one twelve-slide presentation.
 - Focus on age 55+ where supported. Age distribution uses adult unique visitors. The audience-share traffic metric may use a different basis, so verify and label its denominator rather than treating the two as independent unique-audience reach measures.
-- For engagement, request a combined 55+ cohort or show 55–64 and 65+ separately. Do not add or simply average age-specific durations, pages per visit, bounce rates, or competitive shares.
-- Use one consistent period, geography, device scope and domain/subdomain policy. Confirm exact domains, including AAA's regional-club coverage, before collecting brand comparisons.
-- Competitive share must use one denominator covering all six organizations. If the platform limits comparisons to fewer sites, obtain compatible exports or custom support rather than comparing shares normalized within different subsets.
+- The current Demographics interface supports selecting 55–64 and 65+ together and applying the combined cohort. Use that native combined 55+ output for engagement. Do not add or simply average age-specific durations, pages per visit, bounce rates, or competitive shares.
+- Current competitive extraction: September 2026, United States, Total desktop and mobile web, all genders, Include Subdomains checked. Domains: aarp.org, amazon.com, aaa.com, costco.com, usaa.com and amac.us. AAA covers aaa.com and its subdomains, not every independently hosted regional club.
+- Competitive share must use one denominator covering all six organizations. The interface supports five sites per comparison and truncates a six-site selection. The current presentation derives an approximate six-site share from two views that share an Amazon anchor: convert the sixth site's share to the first view's units using its ratio to Amazon, then normalize all six weights together. Label this approximation and disclose that displayed source shares are rounded. Do not compare unadjusted shares normalized within different subsets.
 
 ## Additional use cases to explore later
 
@@ -57,4 +57,4 @@ Keep this project in similar-web-retrieval/ within Navshe/AI-horizon, separate f
 
 ## Current status
 
-Similarweb access has been established during this conversation. September 2026 U.S. monthly audience data were used as the user-approved fallback. The existing workbook and presentation distinguish all-age same-day AARP.org cross-visitation from each listed site's own adult 55+ audience share. The user has now defined a separate six-organization competitive benchmark. The new two-slide summary defines its demographic measures; competitive values have not yet been collected for all six organizations.
+Similarweb access has been established during this conversation. September 2026 U.S. monthly audience data were used as the user-approved fallback. The existing workbook and presentation distinguish all-age same-day AARP.org cross-visitation from each listed site's own adult 55+ audience share. The user has now defined a separate six-organization competitive benchmark. Competitive demographic and combined 55+ engagement values have now been collected for all six organizations. The populated two-slide benchmark is appended to the earlier ten-slide audience presentation. Age data use native full-precision chart exports, engagement uses the native combined 55+ selection, and the six-site competitive share is an explicitly labeled approximation derived from two five-site views.
