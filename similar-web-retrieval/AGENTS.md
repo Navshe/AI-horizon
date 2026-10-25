@@ -10,3 +10,8 @@
 - Prioritize discovery of the top100 other domains visited by AARP.org visitors in the same seven-day window, as detailed in project.md. Do not require a fixed competitor list or substitute a different time window/metric silently.
 - Do not request passwords or MFA codes in chat. Establish supported secure access or use exported reports.
 - Do not infer individual browsing histories, AARP membership, or age50+ status from aggregate Similarweb audience metrics.
+
+## Presentation number formatting
+
+- Display percentages and other non-integer analytical figures in presentation tables, charts, summaries, labels and callouts with one decimal place by default, unless the user explicitly requests a different precision. Keep counts, dates, ranks and age-band labels in their appropriate formats.
+- Preserve full precision in source data and calculations. Round only for display, directly from the original values rather than from previously rounded slide labels. Keep repeated figures consistent across slides.
