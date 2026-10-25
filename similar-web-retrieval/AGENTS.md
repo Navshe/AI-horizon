@@ -7,3 +7,6 @@
 - Explain steps in plain language for a user who does not know Python.
 - Never commit credentials, access tokens, or private source data.
 - Define the intended retrieval task before implementing it; do not assume that the title establishes a particular service or data source.
+- Focus on AARP share of voice and audience interests/other websites, as detailed in project.md.
+- Do not request passwords or MFA codes in chat. Establish supported secure access or use exported reports.
+- Do not infer individual browsing histories, AARP membership, or age50+ status from aggregate Similarweb audience metrics.
