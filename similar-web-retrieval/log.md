@@ -28,3 +28,10 @@
 - User requested one decimal place throughout the Similarweb PowerPoint deck and asked to record the rule in AGENTS.md.
 - Apply one decimal place to analytical presentation figures by default. Preserve original precision and round directly from source values, keeping summaries and table labels consistent.
 - This changes presentation formatting, not the workbook's source values or the definitions of cross-visitation and 55+ audience composition.
+
+## October 25, 2026: competitive set and demographic comparison
+
+- User defined Amazon, AAA, Costco, USAA and AMAC as the competitive set, with AARP included as the benchmark.
+- Requested a two-slide summary of six previously discussed measures: age distribution, audience share, competitive share, visit duration, pages per visit and bounce rate.
+- Separate audience composition/share from engagement, and label this as a proposed comparison framework until values are collected.
+- Verify traffic-versus-unique-visitor denominators, combined 55+ engagement support, exact domains and AAA regional coverage. Maintain one consistent six-site denominator for competitive share.
