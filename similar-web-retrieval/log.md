@@ -22,3 +22,9 @@
 - Rank by common audience reach/overlap if supported, not by affinity alone. No before/after sequence or referral relationship is implied.
 - User believes no API access is available. Verify audience-report time granularity, domain/export limits and secure access before promising retrieval. Weekly traffic metrics do not prove weekly overlap availability.
 - This supersedes the proposed twelve-month starting scope and comparator-list requirement. Share of voice is deferred.
+
+## October 25, 2026: presentation precision
+
+- User requested one decimal place throughout the Similarweb PowerPoint deck and asked to record the rule in AGENTS.md.
+- Apply one decimal place to analytical presentation figures by default. Preserve original precision and round directly from source values, keeping summaries and table labels consistent.
+- This changes presentation formatting, not the workbook's source values or the definitions of cross-visitation and 55+ audience composition.
