@@ -26,7 +26,7 @@ Keep this project in similar-web-retrieval/ within Navshe/AI-horizon, separate f
 - Devices: all available web devices, with actual coverage documented.
 - Proposed Excel table: rank, other domain, website category, overlap count and/or percentage (whichever the report actually provides), affinity if available, period, geography, device scope and source metric definition.
 - Identify meaningful audience-interest patterns from the resulting list. General portals, search engines and social platforms may dominate reach rankings; retain the primary ranking and optionally provide a separate thematic interpretation.
-- Share-of-voice analysis remains a possible later use case; a fixed competitor comparison is not the current task.
+- Keep open-ended audience discovery separate from the competitive benchmarking scope below.
 
 ## Access and source handling
 
@@ -35,6 +35,18 @@ Keep this project in similar-web-retrieval/ within Navshe/AI-horizon, separate f
 - Establish a supported secure access mechanism before promising direct platform exploration. If unavailable, analyze user-provided Similarweb exports, or use an API if the subscription provides it and credentials can be supplied securely.
 - Never copy credentials into code, project instructions, logs, or reports. Keep licensed/private exports out of GitHub unless publication is explicitly authorized and permitted.
 - Record unavailable reports and subscription limits. Never invent results or treat absent data as zero.
+
+## Competitive benchmarking
+
+- User-defined competitive set: Amazon, AAA, Costco, USAA, and AMAC.
+- Include AARP as the benchmark, for six organizations in total.
+- This fixed set applies to competitive benchmarking. It does not replace discovery of other websites visited by AARP.org's audience.
+- Compare six demographic reporting measures: age distribution, audience share by website, competitive share, average visit duration, pages per visit, and bounce rate.
+- Summarize the measures in two PowerPoint slides: audience composition/share on the first slide and engagement on the second. This is a comparison framework; do not label definitions or uncollected values as measured competitive results.
+- Focus on age 55+ where supported. Age distribution uses adult unique visitors. The audience-share traffic metric may use a different basis, so verify and label its denominator rather than treating the two as independent unique-audience reach measures.
+- For engagement, request a combined 55+ cohort or show 55–64 and 65+ separately. Do not add or simply average age-specific durations, pages per visit, bounce rates, or competitive shares.
+- Use one consistent period, geography, device scope and domain/subdomain policy. Confirm exact domains, including AAA's regional-club coverage, before collecting brand comparisons.
+- Competitive share must use one denominator covering all six organizations. If the platform limits comparisons to fewer sites, obtain compatible exports or custom support rather than comparing shares normalized within different subsets.
 
 ## Additional use cases to explore later
 
@@ -45,4 +57,4 @@ Keep this project in similar-web-retrieval/ within Navshe/AI-horizon, separate f
 
 ## Current status
 
-Project scope documented. No Similarweb account has been accessed and no Similarweb findings have been collected. Next prerequisites are a supported access/export route and verification that the audience report supports seven-day co-visitation and up to 100 domains. No competitor list is needed.
+Similarweb access has been established during this conversation. September 2026 U.S. monthly audience data were used as the user-approved fallback. The existing workbook and presentation distinguish all-age same-day AARP.org cross-visitation from each listed site's own adult 55+ audience share. The user has now defined a separate six-organization competitive benchmark. The new two-slide summary defines its demographic measures; competitive values have not yet been collected for all six organizations.
