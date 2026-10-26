@@ -44,3 +44,9 @@
 - AAA scope is the national domain and its subdomains, not separately hosted regional clubs.
 - The interface limits each view to five sites. Rebased two overlapping views through a common Amazon anchor to produce approximate six-site competitive shares. Label the approximation and source rounding rather than presenting it as a native six-site export.
 - Retain one decimal place throughout the twelve-slide combined presentation. Keep licensed source data and detailed values outside GitHub.
+
+## October 26, 2026: monthly issue framework
+
+- User approved three data-supported actions per issue: editorial, resource/service improvement, and distribution; report latest complete month, MoM, YoY where available and longer trend.
+- Retain core Amazon/AAA/Costco/USAA/AMAC comparison plus five issue-specific groups of five advice providers, with AARP benchmarked throughout. Starting groups and domain rules are recorded in project.md.
+- Selections reflect relevance and guidance breadth, not a verified traffic ranking. Compare issue-relevant content and keyword/prompt baskets; keep groups stable and review quarterly. Verify coverage and distinguish government, nonprofit, publisher and commercial roles.
