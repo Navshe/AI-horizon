@@ -58,3 +58,21 @@ Keep this project in similar-web-retrieval/ within Navshe/AI-horizon, separate f
 ## Current status
 
 Similarweb access has been established during this conversation. September 2026 U.S. monthly audience data were used as the user-approved fallback. The existing workbook and presentation distinguish all-age same-day AARP.org cross-visitation from each listed site's own adult 55+ audience share. The user has now defined a separate six-organization competitive benchmark. Competitive demographic and combined 55+ engagement values have now been collected for all six organizations. The populated two-slide benchmark is appended to the earlier ten-slide audience presentation. Age data use native full-precision chart exports, engagement uses the native combined 55+ selection, and the six-site competitive share is an explicitly labeled approximation derived from two five-site views.
+
+## Monthly issue intelligence and comparator groups — October 26, 2026
+
+The user approved a monthly readout for affordability, Social Security, Medicare, fraud and caregiving. For each issue, finish with one editorial action (including Magazine/Bulletin opportunities), one resource or service improvement, and one distribution opportunity, each supported by specific data. Show the latest complete month, month-over-month change, year-over-year change where available, and the longer trend. Maintain consistent geography, devices, definitions and coverage; unavailable data are not zero.
+
+Use six comparison groups, with AARP as the benchmark in every group:
+- Core user-defined group: Amazon (amazon.com), AAA (aaa.com), Costco (costco.com), USAA (usaa.com), AMAC (amac.us).
+- Affordability: National Council on Aging (ncoa.org), Consumer Reports (consumerreports.org), NerdWallet (nerdwallet.com), Kiplinger (kiplinger.com), Consumer Financial Protection Bureau (consumerfinance.gov).
+- Social Security: Social Security Administration (ssa.gov), Kiplinger (kiplinger.com), NerdWallet (nerdwallet.com), Fidelity (fidelity.com), Charles Schwab (schwab.com).
+- Medicare: Medicare.gov (medicare.gov), Medicare Interactive / Medicare Rights Center (medicareinteractive.org as primary advice domain; medicarerights.org as related property), KFF (kff.org), National Council on Aging (ncoa.org), healthinsurance.org.
+- Fraud: Federal Trade Commission (consumer.ftc.gov as primary consumer advice property; ftc.gov related), FBI (fbi.gov; ic3.gov related), Better Business Bureau (bbb.org), Consumer Financial Protection Bureau (consumerfinance.gov), Identity Theft Resource Center (idtheftcenter.org).
+- Caregiving: Family Caregiver Alliance (caregiver.org), Caregiver Action Network (caregiveraction.org), Alzheimer's Association (alz.org), National Institute on Aging (nia.nih.gov), Caring.com (caring.com).
+
+These are recommended starting sets of five substantial advice providers per issue, chosen for relevance and guidance breadth; they are not a measured top-five traffic ranking or an endorsement. Government sources, nonprofits, publishers and commercial guidance providers have different roles. Label those roles, especially commercial lead generation.
+
+For issue comparisons, prioritize a consistent issue keyword basket, relevant URLs/folders or validated content segments, and issue-specific AI prompts/citations. Whole-domain traffic and demographics provide context, not issue reach. Do not treat brokerage logins, unrelated government traffic or commercial conversions as advice consumption. Check report/subdomain entitlement and low-volume coverage. Related properties are supplemental and must not be double-counted or silently added to denominators.
+
+Keep the five issue groups stable for trend comparisons; review quarterly using observed keyword competitors, relevant content traffic and AI citation presence. Record replacements and any resulting series break. AARP plus five peers exceeds the observed five-site UI limit, so collect separate AARP-anchored views where necessary; do not combine subset-normalized shares without an explicit valid common denominator. No age55+ inference from all-age issue reports.
